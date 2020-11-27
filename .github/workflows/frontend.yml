@@ -27,5 +27,6 @@ jobs:
         humanitec-token: ${{ secrets.HUMANITEC_TOKEN }}
         organization: humanitec-demo
         humanitec-api: staging-api.humanitec.io
+        humanitec-registry: staging-registry.humanitec.io
         dockerfile: src/frontend/.
         image-name: frontend
