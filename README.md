@@ -177,5 +177,5 @@ If you would like to contribute features or fixes to this app, see the [Developm
 - [KubeCon EU 2019 - Reinventing Networking: A Deep Dive into Istio's Multicluster Gateways - Steve Dake, Independent](https://youtu.be/-t2BfT59zJA?t=982)
 
 ---
-
+z
 This is not an official Google project.
